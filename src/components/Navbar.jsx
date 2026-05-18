@@ -7,7 +7,7 @@ const Navbar = () => {
         <div className='flex justify-between p-5'>
            <ul className='flex gap-3'>
             <li><Link href={'/'}>Home</Link></li>
-            <li><Link href={'/destinations'}>Destinations</Link></li>
+            <li><Link href={'/destination'}>Destinations</Link></li>
             <li><Link href={'/my-bookings'}>My-Bookings</Link></li>
             <li><Link href={'/add-destination'}>Add Destination</Link></li>
             
